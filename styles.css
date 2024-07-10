@@ -411,6 +411,7 @@ h5 {
         margin: 0 auto;
         text-align: center;
         width: 370px;
+        margin-bottom: 2rem;
     }
 
     .img-wrap {
@@ -451,6 +452,7 @@ h5 {
     }
     .info-wrap {
       width: 280px;
+      margin-bottom: 2rem;
     }
 
     .img-wrap{
